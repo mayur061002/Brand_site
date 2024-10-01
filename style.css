@@ -138,7 +138,7 @@ html,body{
 
 }
 
-/* @keyframes scroll {
+@keyframes scroll {
     0%{
         transform: translateX(0);
     }
@@ -157,6 +157,6 @@ html,body{
     }
     
     
-} */
+}
 
 
